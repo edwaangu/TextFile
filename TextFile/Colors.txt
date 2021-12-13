@@ -1,0 +1,5 @@
+﻿White
+Light Gray
+Gray
+Dark Gray
+Black
